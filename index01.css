@@ -1,0 +1,57 @@
+
+.imgg{
+	margin: 100px;
+	margin: 100px;
+	width: 680px;
+}
+.child_3{
+	text-align: right;
+   border: 2px solid black;
+  width: 430px;
+  height: 400px;
+
+  }
+  .parent{
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  }
+  .parentt{
+  	display: flex;
+  	align-items: center;
+  }
+  .child_4{
+   border: 2px solid black;
+  width: 430px;
+  height: 400px;
+  }
+.child_5 img{
+ width: 619px;
+ margin: 60px;
+  }
+.parentn{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.child_6 img{
+	width: 600px;
+}
+.child_7{
+	margin: 60px;
+	border: 2px solid black;
+	width: 430px;
+  height: 400px;
+}
+.child_8 img{
+	display: flex;
+	align-items: left;
+	justify-content: left;
+	border: 2px solid black;
+  width: 430px;
+  height: 400px;
+  margin: 80px;
+}
+.child_9 img{
+	width: 600px;
+}
